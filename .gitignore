@@ -1,0 +1,7 @@
+.env
+artifacts
+.idea
+cache
+deployments
+node_modules
+yarn.lock
